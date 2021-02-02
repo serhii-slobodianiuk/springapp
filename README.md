@@ -1,1 +1,1 @@
-Simple Spring app
+Simple Spring App
